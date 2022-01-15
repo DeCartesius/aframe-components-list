@@ -21,6 +21,7 @@ Vue.config.ignoredElements = [
   'a-cursor',
   'a-gltf-model',
   'a-triangle',
-  'a-cubemap'
+  'a-cubemap',
+  'a-circle'
 ]
 ```
